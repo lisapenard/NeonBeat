@@ -15,7 +15,6 @@ The rules are simple :
 - Click again on it to erase it from the loop
 - Click Play to play the loop / Click Pause to stop the loop
 - You can add any instuments when the loop is playing
-- Hover the theme icon to see what is going to happen
 - Click on an icon to change the Theme
 - Click on Reset to clear the pad
 
